@@ -1,0 +1,23 @@
+{
+  "name": "socialmongoapi",
+  "version": "1.0.0",
+  "description": "Social media API for mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yajiit/SocialMongoAPI.git"
+  },
+  "author": "Yajiit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yajiit/SocialMongoAPI/issues"
+  },
+  "homepage": "https://github.com/Yajiit/SocialMongoAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0"
+  }
+}
